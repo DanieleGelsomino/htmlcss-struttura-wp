@@ -7,6 +7,7 @@
 
 .debug .container {
     border: 2px dashed red;
+    height: 1000px;
 }
 
 .container {
@@ -37,7 +38,7 @@ header {
 }
 
 .blue {
-    height: 400px;
+    height: 500px;
     background-color: blue;
 }
 
@@ -49,6 +50,19 @@ header {
 
 .left.lightblue {
     float: left;
-    width: 20%;
+    width: 18%;
+    margin-right: 2%;
 
+
+}
+
+main.lightblue {
+    float: left;
+    width: 58%;
+    margin-right: 2%;
+}
+
+right.lightblue {
+    float: left;
+    width: 20%;
 }
